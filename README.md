@@ -47,8 +47,8 @@ Follow these instructions to get the project up and running on your local machin
 Make sure you have [Node.js](https://nodejs.org/) (v18 or newer) and `npm` installed on your system.
 
 ### 2. Clone the Repository
-git clone <YOUR_REPOSITORY_URL>
-cd <your-project-directory>
+>git clone <YOUR_REPOSITORY_URL>
+>cd your-project-directory
 
 ### 3. Install Dependencies
 
@@ -69,7 +69,7 @@ JWT_SECRET=your-super-secret-and-long-random-string
 ### 5. Run the Development Server
 
 Start the Next.js development server.
-npm run dev
+>npm run dev
 
 Your application should now be running at [http://localhost:3000](http://localhost:3000).
 
@@ -108,7 +108,3 @@ This application is ready to be deployed on any platform that supports Next.js, 
 * [AWS Amplify](https://aws.amazon.com/amplify/)
 
 When deploying, remember to set the `JWT_SECRET` environment variable in your hosting provider's settings.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
