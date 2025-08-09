@@ -1,0 +1,23 @@
+[
+  {
+    "id": "7e71afce-de54-48bc-abfd-30d23b161bcf",
+    "name": "Mani Rohit",
+    "email": "manirohit221004@gmail.com",
+    "password": "$2b$12$v0QMaDMTmacXxP0uWGw7TuUaIU8cdbFUcS.8HuPLgwyKAapsjYEA2",
+    "createdAt": "2025-08-09T09:23:48.856Z"
+  },
+  {
+    "id": "c3496448-1769-4030-88df-ca4c552f6399",
+    "name": "123",
+    "email": "abc@gmail.com",
+    "password": "$2b$12$2GTWpJutaJdkV.pDARM3v.CvlKnL5YhdzmJfRMHU6s.Gy.YQ554WS",
+    "createdAt": "2025-08-09T09:25:29.654Z"
+  },
+  {
+    "id": "ad4174a7-c723-4923-8def-18e7ab6e8ba8",
+    "name": "testing-template",
+    "email": "mani@gmail.com",
+    "password": "$2b$12$rMfyXMphBzw9Dq2tfuC.SeMyKkZWFVGA797TO1Ld4qijyOjVtlmgS",
+    "createdAt": "2025-08-09T09:30:55.642Z"
+  }
+]
